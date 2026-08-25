@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proof First"
+  short_description: "Rigorous coding with evidence, minus ceremony"
+  default_prompt: "Use $proof-first to complete this coding task and prove the result works."
